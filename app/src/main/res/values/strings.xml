@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+    <string name="description">Landmark 17th-century Mughal fortress built in towering red sandstone,
+        now a complex of museums.
+    </string>
+    <string name="des_qutub">73m tapering tower built in 1193 by Qutab-ud-din Aibak after defeat of Delhi last Hindu kingdom.
+
+</string>
+
+    <string name="des_tomb">Opulent red-sandstone tomb of Mughal Emperor Humayun, built in 1572 and surrounded by formal gardens.
+
+</string>
+
+    <string name="des_gate">Imposing Arc de Triomphe-style gate commemorating the Indian soliders killed in the First World War.
+
+</string>
+
+    <string name="des_pavilion">It is one of the best north Indian restaurant in delhi.</string>
+
+    <string name="des_orient">Upmarket hotel venue serving cuisine from the countries that the Orient Express travels through.
+</string>
+
+
+    <string name="des_chandni">Enjoying this market region is like a small adventure tours. There are alleys and narrow passages.</string>
+
+    <string name="des_sarojini"> The articles of this market usually comprises of rejected goods from the packages sent for export.</string>
+
+    <string name="des_karol">It is popularly known for offering an array of gorgeous bridal wears and traditional Indian garments. </string>
+
+    <string name="des_place">The busiest of all the shopping places of Delhi is Connaught Place. This shopping place looks great with its white appearance. </string>
+
+    <string name="des_accent">Contemporary twists on Indian cuisine are served at this stylish, prize-winning restaurant.
+</string>
+
+    <string name="des_sorrento">Upscale hotel refined yet relaxed Italian restaurant with a wood-fired oven and white wall tiling.
+</string>
+
+    <string name="des_central">This is a beautiful, lush green park with a smattering of water bodies here and there, and a few fountains.</string>
+
+    <string name="des_five"> This is not just a park, it is a space with a variety of activities, inviting public interaction and exploration.</string>
+
+    <string name="des_deer">Located in South Delhi, this Park is a popular spot for walkers and runners, and is also a good chillout spot on the weekends.</string>
+
+    <string name="des_india">India Gate is a famous landmark in Delhi. This gardens are a popular chillout spot for the locals in Delhi.</string>
+    <string name="category_historic">Historic Sites</string>
+
+    <string name="category_restaurant">Restaurant</string>
+
+    <string name="category_park">Park</string>
+
+    <string name="category_shopping">Shopping</string>
+
+
+</resources>
